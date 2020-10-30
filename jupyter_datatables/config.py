@@ -31,7 +31,7 @@ class DataTablesOptions(object):
     order = []  # disable initial ordering
     ordering = True
 
-    paging = True
+    paging = False
 
     responsive = True
 
